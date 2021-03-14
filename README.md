@@ -6,4 +6,4 @@
 ### Sobre mim
 Eu sou dev, professora de programação e Game Design 
 
-- [Website](http://tatyanecalixto.com.br/) 💻 - Mais informações.
+- [Site](http://tatyanecalixto.com.br/) 💻 - Mais informações e projetos.
