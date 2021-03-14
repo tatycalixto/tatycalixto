@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatycalixto/)](https://www.linkedin.com/in/tatycalixto/)
 
 ### Sobre mim
-- Doutorando :mortar_board:
+- Doutoranda :mortar_board:
 - Dev :computer:
 - Professora de programação e Game Design :video_game:
 
