@@ -6,9 +6,10 @@
 
 ### Sobre mim
 - Consultora de Qualificação :computer: :mortar_board:
+- Professora de programação e Game Design :video_game:
 - Doutoranda :mortar_board:
 - Dev :computer:
-- Professora de programação e Game Design :video_game:
+
 
 - [Site](http://tatyanecalixto.com.br/) 💻 - Mais informações e projetos.
 
