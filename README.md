@@ -7,7 +7,7 @@
 ### Sobre mim
 - Consultora de Qualificação :computer: :mortar_board:
 - Professora de programação e Game Design :video_game:
-- Doutoranda :book: 
+- Doutora :book: 
 - Dev :computer:
 
 
