@@ -11,7 +11,6 @@
 - Dev :computer:
 
 
-- [Site](http://tatyanecalixto.com.br/) 💻 - Mais informações e projetos.
 
 ### Skills
 
